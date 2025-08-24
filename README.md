@@ -1,5 +1,5 @@
 # Predicting-Crime-Resolution-Status-in-Edmond-Oklahoma
-Capstone project on predicting crime resolution status in Edmond, Oklahoma using machine learning
+Project on predicting crime resolution status in Edmond, Oklahoma using machine learning
 
 This project focuses on predicting the resolution status (solved vs. unsolved) of crime cases in Edmond, Oklahoma, using machine learning techniques. By analyzing 13,560 historical crime records from the Edmond Police Department, the study aims to identify patterns and factors that influence whether a crime is successfully resolved.
 
